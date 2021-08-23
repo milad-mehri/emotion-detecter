@@ -1,4 +1,4 @@
-# emotion-detecteo
+# emotion-detector
  Detect the mood of any message using this simple website
  
  [Try here!](https://emotions.milad.wtf) 
